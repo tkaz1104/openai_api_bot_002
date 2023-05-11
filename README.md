@@ -1,0 +1,2 @@
+# openai_api_bot_002
+udemyのチャットbot作成演習
